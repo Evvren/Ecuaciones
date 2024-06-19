@@ -10,6 +10,7 @@ namespace Ecuaciones
     {
         static void Main(string[] args)
         {
+            //Inicio antes de las 7 P.M.
         }
     }
 }
